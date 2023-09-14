@@ -24,5 +24,12 @@
   },
   "packageManager": "yarn@3.6.3",
   "repository": "https://github.com/idanran/silk_node",
-  "description": "tencent silk encode"
+  "description": "tencent silk encode",
+  "keywords": [
+    "silk",
+    "tencent",
+    "encode",
+    "silk-sdk"
+  ],
+  "author": "idanran <idanran@outlook.com>"
 }
