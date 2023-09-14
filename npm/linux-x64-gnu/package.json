@@ -1,0 +1,23 @@
+{
+  "name": "@silk_node/core-linux-x64-gnu",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "silk_node.linux-x64-gnu.node",
+  "files": [
+    "silk_node.linux-x64-gnu.node"
+  ],
+  "description": "tencent silk encode",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/idanran/silk_node",
+  "libc": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "@silk_node/core",
+  "version": "0.0.1",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "napi": {
+    "name": "silk_node",
+    "triples": {}
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@napi-rs/cli": "^2.16.3"
+  },
+  "engines": {
+    "node": ">= 10"
+  },
+  "scripts": {
+    "artifacts": "napi artifacts",
+    "build": "napi build --platform --release",
+    "build:debug": "napi build --platform",
+    "prepublishOnly": "napi prepublish -t npm",
+    "universal": "napi universal",
+    "version": "napi version"
+  },
+  "packageManager": "yarn@3.6.3",
+  "repository": "https://github.com/idanran/silk_node",
+  "description": "tencent silk encode"
+}

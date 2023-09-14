@@ -1,0 +1,20 @@
+{
+  "name": "@silk_node/core-win32-x64-msvc",
+  "version": "0.0.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "silk_node.win32-x64-msvc.node",
+  "files": [
+    "silk_node.win32-x64-msvc.node"
+  ],
+  "description": "tencent silk encode",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/idanran/silk_node"
+}
