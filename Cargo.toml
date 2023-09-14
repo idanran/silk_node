@@ -1,6 +1,6 @@
 [package]
 edition = "2021"
-name = "silk-node"
+name = "silk_node"
 version = "0.0.0"
 
 [lib]
