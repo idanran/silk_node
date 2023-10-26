@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@silk_node/core?style=flat-square)](https://www.npmjs.com/package/@silk_node/core)
 
-QQ/微信语音编码器
+本项目已不再维护，请迁移至 [silk-wasm](https://github.com/idanran/silk-wasm)
 
 ## API
 ```ts
